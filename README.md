@@ -51,19 +51,6 @@ $ cd Emotion-detection-from-EEG
 $ python knn.predict.py
 ```
 
-### Todos
-
- - Perform same task with an SVM
- - Training an DNN for increasing accuracy 
 
 
-### Development
 
-Want to contribute? Great!
-You can [contact](mailto:shubhpachchigar@gmail.com) me for any suggestion or feedback!
-
-
-License
-----
-
-MIT
