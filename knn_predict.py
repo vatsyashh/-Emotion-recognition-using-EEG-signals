@@ -1,4 +1,4 @@
-# Copyright (c) 2020 Shubh Pachchigar
+
 """
 EEG Data is taken from DEAP
 The training data was taken from DEAP.
