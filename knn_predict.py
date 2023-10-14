@@ -2,9 +2,6 @@
 """
 EEG Data is taken from DEAP
 The training data was taken from DEAP.
-See my:
-- Github profile: https://github.com/shubhe25p
-- Email: shubhpachchigar@gmail.com
 """
 
 import csv
